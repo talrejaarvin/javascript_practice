@@ -1,0 +1,8 @@
+Print the names of all departments.
+List all book titles available in the catalog.
+Find and display the contact number of the Children's Literature department.
+Check if "Introduction to Algorithms" is available for borrowing.
+Add a new book to the catalog.
+Update the availability status of "The Great Gatsby" to false.
+List all categories available in the library's catalog (avoid duplicates).
+Find and print the full name of the manager of the Reference department.
